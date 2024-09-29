@@ -16,10 +16,6 @@ document.addEventListener("DOMContentLoaded", () => {
     let enemySpeed = 10;
     let minionSpeed = 5;
 
-    // ... previous code ...
 
-    // The full JavaScript code from the previous responses should go here.
-
-    // ... previous code ...
 });
 
